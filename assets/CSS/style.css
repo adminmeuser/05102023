@@ -1,0 +1,56 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: block;
+    justify-items: center;
+    padding: 30px;
+    border: 10px;
+    background-color: black;
+  }
+  .section1 {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    margin: 20px;
+    padding: 30px;
+    width: 60%;
+    background-color: green;
+  }
+
+  .section2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    padding: 30px;
+    width: 60%;
+    background-color: white;
+    
+  }
+  .section3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    padding: 30px;
+    width: 60%;
+    background-color: yellow;
+  }
+  
+  .blocks-container {
+    display: flex;
+    padding: 30px;
+    
+    
+  }
+  .block {
+    width: 30%;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .block img {
+    width: 50%;
+    
+  }
+  
+  
